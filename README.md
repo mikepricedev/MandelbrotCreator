@@ -7,5 +7,5 @@ In root project directory run cmd:
 g++ -std=c++17 -v -Wall -Isrc main.cpp -o mandelbrotCreator src/*.cpp
 ```
 
-#Run
+# Run
 Run cmd `./mandelbrotCreator --help` and follow instructions.
