@@ -1,5 +1,5 @@
 # Description
-Draws estimates Mandelbrot Set and saves visual representation to .ppm file.
+Estimates Mandelbrot Set and saves visual representation to .ppm file.
 
 # Build
 In root project directory run cmd:
